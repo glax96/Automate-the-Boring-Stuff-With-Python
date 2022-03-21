@@ -1,0 +1,27 @@
+1. funkcije su korisne u programu jer kod izgleda puno organiziranije i ljepse za citat i razumijet
+
+2. kad je funkcija pozvana
+
+3. def stvara funkciju
+
+4. funkcija je def spam() i neke naredbe ispod a poziv funkcije izgleda ovko: spam()
+
+5. /
+
+6. one se brišu
+
+7. return value je ono što funkcija obradi izračuna. može
+
+8. 0 or None
+
+9. tako da napisemo uz ime varijable Global
+
+10. NoneType
+
+11. nista jer ne postoji takav modul
+
+12. spam.bacon()
+
+13. sa try i except
+
+14. u try ide main program sve što želimo da se izvrši a u except ide ono što želimo da se izvrši u slučajju pogreške.

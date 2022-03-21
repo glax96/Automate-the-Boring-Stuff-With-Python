@@ -1,0 +1,25 @@
+1. excape character dopusta da koristim karaktere koji se inaće ne mogu staviti u string
+
+2. \n novi red, \t je razmak tab
+
+3. sa stavljanjem r ispred stringa npr r'\nesto' ili koristenjem """ \nesto """
+
+4. "Howl's Moving Castle" zbog dvostrukih navodnika
+
+5. korištenjem """ """ mozemo manualno stavljati nove redove
+
+6. 'Hello, world!'[1] = 'e'
+'Hello, world!'[0:5] = 'Hello'
+'Hello, world!'[:5] = 'Hello'
+'Hello, world!'[3:] = 'lo, world!'
+
+7. 'Hello'.upper() = 'HELLO'
+'Hello'.upper().isupper() = True
+'Hello'.upper().lower() = 'hello'
+
+8. ['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+'-'.join('There can be only one.'.split()) = There-can-only-be-one
+
+9. ljust(), rjust(), center()
+
+10. strip(), rstrip(), lstrip()

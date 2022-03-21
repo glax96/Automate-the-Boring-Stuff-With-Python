@@ -1,0 +1,33 @@
+1. [] je lista
+ 
+2. spam.insert(2, 'hello')
+
+3. d
+
+4. d
+
+5. a,b
+
+6. 1
+
+7. bacon[3.14, 'cat', 11, 'cat', True, 99]
+
+8. 3.14, 11, 'cat', True, 99
+
+9. + i *
+
+10. append dodaje na kraj liste, a insert dodaje na određeni index
+
+11. del i remove
+
+12. /
+
+13. liste su mutable a tuples su immutable
+
+14. /
+
+15. /
+
+16. reference
+
+17. copy.copy kopira referencu na listu a copy.deepcopy i unutarnje linije liste

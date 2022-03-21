@@ -1,0 +1,20 @@
+1. operatori: *, -, /, +
+   values: 'hello', -88.8, 5
+
+2. spam je varijabla, a 'spam' je string
+
+3. string, int, float
+
+4. sadrzi se od operatora i iznosa npr. 2 + 2, w je iznos a + je operator
+
+5. expression je računica, izračun a statement radi nesto odredeno.
+
+6. bacon = 21
+
+7. 'spamspamspam', 'spamspamspam'
+
+8. zato sto eggs je string karakter a 100 nije valjano jer varijabla ne smije imati broj kao prvui znak
+
+9. int, float, str
+
+10. 99 mora biti '99'
